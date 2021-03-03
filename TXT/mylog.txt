@@ -2,3 +2,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W01 120 L02 Kelas Sync OS
+ZCZC W01 70 L21 Set up VirtualBox and Debian
