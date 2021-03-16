@@ -11,3 +11,5 @@ ZCZC W01 10 L15 Clone OS211 repository
 ZCZC W01 15 L16 Update log
 ZCZC W01 120 L17 Make top 10 list of links
 ZCZC W01 55 L18 Learn to use command line, regex, sed, awk, scripting (and using it in pop quiz)
+ZCZC W02 80 L02 Kelas Sync OS
+ZCZC W02 180 L10 Finish Assignment Week 2
