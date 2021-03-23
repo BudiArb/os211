@@ -13,3 +13,7 @@ ZCZC W01 120 L17 Make top 10 list of links
 ZCZC W01 55 L18 Learn to use command line, regex, sed, awk, scripting (and using it in pop quiz)
 ZCZC W02 80 L02 Kelas Sync OS
 ZCZC W02 180 L10 Finish Assignment Week 2
+ZCZC W03 100 L02 Kelas Sync OS
+ZCZC W03 220 L10 Doing Assignment Week 3
+ZCZC W03 60 L99 Weekly Quizzes
+
