@@ -22,4 +22,6 @@ ZCZC W04 340 Doing Assignment Week 4
 ZCZC W05 80 L02 Kelas Sync OS
 ZCZC W05 60 Weekly Quizzes
 ZCZC W05 350 Doing Assignment Week 5
-
+ZCZC W06 100 L02 Kelas Sync OS
+ZCZC W06 60 L99 Weekly Quizzes
+ZCZC W06 240 L10 Doing Assignment Week 6
