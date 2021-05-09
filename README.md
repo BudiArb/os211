@@ -9,7 +9,7 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 [W05](https://budiarb.github.io/os211/W05/)
 [W06](https://budiarb.github.io/os211/W06/)
 [W07](https://budiarb.github.io/os211/W07/)
-[W08]()
+[W08](https://budiarb.github.io/os211/W08/)
 [W09]()
 [W10]()
 
